@@ -1,0 +1,9 @@
+This file contains 2 UML diagrams description.
+
+@startuml
+Bob -> Alice : hello
+@enduml
+
+@startuml
+version
+@enduml
