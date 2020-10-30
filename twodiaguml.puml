@@ -7,3 +7,5 @@ Bob -> Alice : hello
 @startuml
 version
 @enduml
+
+End of file
