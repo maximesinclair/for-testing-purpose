@@ -1,4 +1,4 @@
-This file contains 2 UML diagrams description.
+This file contains 2 UML diagrams.
 
 @startuml
 Bob -> Alice : hello
